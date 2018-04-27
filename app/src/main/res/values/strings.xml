@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Распознавание речи</string>
+    <string name="kws_caption">Для начала демонстрации, скажите \"wakeup\".</string>
+    <string name="menu_caption">Скажите \"animals\" для выбора демонстрационного примера.</string>
+    <string name="digits_caption">Для начала демонстрации распознавания цифр, скажите что-то вроде \"one two three four five\".</string>
+    <string name="forecast_caption">Для начала демонстрации распознавания погоды, скажите что-то вроде \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">Для начала демонстрации фонетического распознавания, скажите что-то .</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_show_pic1">Кот</string>
+    <string name="action_show_pic2">Лев</string>
+    <string name="action_show_pic3">Солнце</string>
+    <string name="action_show_pic4">Машина</string>
+    <string name="hotword">умный дом</string>
+</resources>

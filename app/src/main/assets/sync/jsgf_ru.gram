@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar animals;
+
+<animals> = Кот | Лев | Солнце | Машина;
+
+public <animals> = <animals>+ ;
